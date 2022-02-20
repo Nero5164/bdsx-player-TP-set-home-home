@@ -1,9 +1,14 @@
 ### [Set Home] How to use
 1. Scoreboard "time" object add
+2. /sethome
+3. Save the current coordinates
 ![2022-02-20 14;15;02](https://user-images.githubusercontent.com/100014017/154829495-56d5596f-9208-4bd2-bd5e-ba3e0f264d62.PNG)
 ![2022-02-20 14;19;54](https://user-images.githubusercontent.com/100014017/154829559-a2c2f67c-bc5b-4116-8dc4-f2c7ced76a08.PNG)
 ![2022-02-20 14;20;46](https://user-images.githubusercontent.com/100014017/154829601-a3eac38a-ab81-4f0b-88fd-4603be342e1e.PNG)
 ### [Home] How to use
+1. /home
+2. Move to the coordinates you saved
+ - If you don't have the coordinates saved you can't use them
 ![2022-02-20 14;28;22](https://user-images.githubusercontent.com/100014017/154829808-ff9c7452-1320-4246-a95f-023dde5bae35.PNG)
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/100014017/154829812-6861839e-8d1a-4066-884a-921bd26549d1.gif)
 ### [Player TP] How to use
