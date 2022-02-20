@@ -8,7 +8,7 @@
 ### [Home] How to use
 1. /home
 2. Move to the coordinates you saved
-3. If you don't have the coordinates saved you can't use them
+ - If you don't have the coordinates saved you can't use them
 
 
 
